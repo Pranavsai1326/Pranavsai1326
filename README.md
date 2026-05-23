@@ -204,31 +204,17 @@ pranav = {
 
 ## 📊 GitHub Stats
 
-<!--
-  FIX NOTES:
-  - Stats card: using github-readme-stats.vercel.app (primary). If broken, swap to:
-      https://github-readme-stats-sigma-five.vercel.app (community mirror)
-  - Streak: using streak-stats.demolab.com (most stable option available)
-  - Top Langs: same primary domain as stats card
-  All three wrapped in a center-aligned div for clean layout.
--->
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranavsai1326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=420" height="180" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pranavsai1326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Pranavsai1326&theme=tokyonight&hide_border=true&card_width=420" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Pranavsai1326&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavsai1326&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranavsai1326&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
 </div>
-
-<!--
-  IF STATS ARE STILL BROKEN — replace the 3 img src URLs above with these mirrors:
-  Stats:  https://github-readme-stats-sigma-five.vercel.app/api?username=Pranavsai1326&show_icons=true&theme=tokyonight&hide_border=true
-  Langs:  https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranavsai1326&layout=compact&theme=tokyonight&hide_border=true
-  Streak: https://github-readme-streak-stats-eight.vercel.app?user=Pranavsai1326&theme=tokyonight&hide_border=true
--->
 
 ---
 
@@ -255,7 +241,17 @@ pranav = {
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Pranavsai1326" alt="Contribution Graph" width="100%" />
+
+  <!-- Light mode snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranavsai1326/Pranavsai1326/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranavsai1326/Pranavsai1326/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Pranavsai1326/Pranavsai1326/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+
+  <!-- Fallback static chart if snake not yet generated -->
+  <!-- <img src="https://ghchart.rshah.org/58A6FF/Pranavsai1326" alt="Contribution Graph" width="100%" /> -->
+
 </div>
 
 ---
