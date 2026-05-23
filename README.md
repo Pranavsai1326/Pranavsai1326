@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- Animated Typing Header — FIXED: proper URL encoding, no broken chars -->
+<!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hey+there!+I'm+Pranav+Sai+Kuna+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Salesforce+Developer;IEEE+Published+Researcher+%F0%9F%93%84;Computer+Vision+%7C+Prompt+Engineer;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=Pranavsai1326&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=google-meet&logoColor=white" alt="Open to Work" />
 &nbsp;
-<img src="https://img.shields.io/badge/IEEE%20Published-Researcher-blue?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Published" />
+<img src="https://img.shields.io/badge/IEEE%20WAMS%202026-Published-blue?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Published" />
 
 </div>
 
@@ -18,14 +17,14 @@
 
 ## 👋 About Me
 
-Hi, I'm **Kuna Pranav Sai** — a passionate **AI/ML Engineer & Salesforce Developer** with **1+ year** of hands-on internship and project experience, graduating B.Tech CSE from **AITAM, 2026 (CGPA: 8.13/10)**.
+Hi, I'm **Kuna Pranav Sai** — a **B.Tech CSE Graduate Fresher (2026)** from AITAM, specializing in **AI/ML & Salesforce Development**, with hands-on internship and final-year project experience (CGPA: 8.13/10).
 
 > *"Building intelligent systems — from real-time computer vision to enterprise CRM solutions."*
 
 ```python
 pranav = {
-    "role"        : "AI/ML Engineer & Salesforce Developer",
-    "education"   : "B.Tech CSE — AITAM (2026) | CGPA: 8.13/10",
+    "role"        : "Graduate Fresher | AI/ML & Salesforce Developer",
+    "education"   : "B.Tech CSE — AITAM | Graduating 2026 | CGPA: 8.13/10",
     "research"    : "IEEE WAMS 2026 — Oral Presentation (Paper ID: 680)",
     "certified"   : ["Salesforce PD-1", "Agentforce Specialist", "Prompt Engineering"],
     "expertise"   : ["Computer Vision", "YOLOv8", "Flask", "Salesforce CRM", "LLMs"],
@@ -131,9 +130,9 @@ pranav = {
         <img src="https://img.shields.io/badge/Oral%20Presentation-Paper%20ID%3A%20680-blue?style=flat-square" />
       </p>
       <ul>
-        <li>🎯 Dual YOLOv8 inference achieving <strong>&gt;0.85 precision</strong> for weapon & fight detection</li>
+        <li>🎯 Dual YOLOv8 inference achieving <strong>&gt;0.85 precision</strong> for weapon &amp; fight detection</li>
         <li>⚡ CPU-optimized inference at <strong>12–15 FPS</strong> on live video streams</li>
-        <li>🔁 Full evaluation pipeline: dataset preparation → training → inference → metric analysis (Precision, Recall, F1)</li>
+        <li>🔁 Full pipeline: dataset prep → training → inference → metric analysis (Precision, Recall, F1)</li>
         <li>🏗️ IoT-based multi-camera surveillance architecture for transport hubs</li>
       </ul>
     </td>
@@ -186,7 +185,7 @@ pranav = {
       <ul>
         <li>Reduced hallucinations by <strong>~25%</strong> via guardrail design</li>
         <li>Improved output consistency by <strong>~30%</strong></li>
-        <li>Benchmarked GPT-4 vs Claude on latency & accuracy</li>
+        <li>Benchmarked GPT-4 vs Claude on latency &amp; accuracy</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -205,20 +204,31 @@ pranav = {
 
 ## 📊 GitHub Stats
 
-<!-- FIXED: Using stable demolab streak URL instead of unreliable herokuapp -->
+<!--
+  FIX NOTES:
+  - Stats card: using github-readme-stats.vercel.app (primary). If broken, swap to:
+      https://github-readme-stats-sigma-five.vercel.app (community mirror)
+  - Streak: using streak-stats.demolab.com (most stable option available)
+  - Top Langs: same primary domain as stats card
+  All three wrapped in a center-aligned div for clean layout.
+-->
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pranavsai1326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Pranavsai1326&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranavsai1326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=420" height="180" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Pranavsai1326&theme=tokyonight&hide_border=true&card_width=420" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavsai1326&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavsai1326&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" height="160" alt="Top Languages" />
 </div>
+
+<!--
+  IF STATS ARE STILL BROKEN — replace the 3 img src URLs above with these mirrors:
+  Stats:  https://github-readme-stats-sigma-five.vercel.app/api?username=Pranavsai1326&show_icons=true&theme=tokyonight&hide_border=true
+  Langs:  https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranavsai1326&layout=compact&theme=tokyonight&hide_border=true
+  Streak: https://github-readme-streak-stats-eight.vercel.app?user=Pranavsai1326&theme=tokyonight&hide_border=true
+-->
 
 ---
 
@@ -244,7 +254,6 @@ pranav = {
 
 ## 🐍 Contribution Graph
 
-<!-- FIXED: Using ghchart as reliable alternative while snake workflow is not set up -->
 <div align="center">
   <img src="https://ghchart.rshah.org/58A6FF/Pranavsai1326" alt="Contribution Graph" width="100%" />
 </div>
@@ -268,9 +277,9 @@ pranav = {
 <div align="center">
 
   <i>⭐ If my work is useful to you, a star on my repos means a lot — thank you!</i>
-  
+
   <br/><br/>
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%"/>
 
 </div>
