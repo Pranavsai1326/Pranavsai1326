@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Kuna%20Pranav%20Sai+👋;AI%2FML%20Engineer%20%26%20Salesforce%20Developer;Building%20intelligent%20systems%20%E2%80%94%20from%20real-time%20computer%20vision%20to%20enterprise%20CRM%20solutions;IEEE+Published+Researcher+🎓;Open+to+Opportunities+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF¢er=true&vCenter=true&width=700&lines=Hi+I'm+Pranav+Sai!;AI%2FML+Engineer+%26+Salesforce+Developer;IEEE+Published+Researcher;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Kuna Pranav Sai** — a **AI/ML Engineer & Salesforce Developer** with **0+ year(s)** of hands-on experience.
+Hi, I'm **Kuna Pranav Sai** — a **AI/ML Engineer & Salesforce Developer** with hands-on experience as graduate fresher.
 
 > *Building intelligent systems — from real-time computer vision to enterprise CRM solutions*
 
