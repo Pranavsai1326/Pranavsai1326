@@ -10,6 +10,14 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Salesforce-PD--1%20%7C%20Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce Certified" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KunaPranavSai/kunapranavsai/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KunaPranavSai/kunapranavsai/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake animation eating through my real GitHub contribution graph" src="https://raw.githubusercontent.com/KunaPranavSai/kunapranavsai/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -96,6 +104,16 @@ Architected a multi-location Salesforce CRM platform across 3+ data domains with
 
 `Salesforce Certified Platform Developer I (PD-1)` `Salesforce Certified Agentforce Specialist` — [verify on Trailblazer](https://www.salesforce.com/trailblazer/pranavsaikuna)
 `Prompt Engineering for ChatGPT — Great Learning` `AI-ML & Data Engineering Virtual Internship — AWS Academy` `Python for Data Science — NPTEL, IIT Madras` `Data Structures & Algorithms — GeeksforGeeks/AITAM` `Network Security — Fortinet` `Zero Trust Security — Zscaler`
+
+---
+
+### GitHub Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/KunaPranavSai/kunapranavsai/output/metrics.svg" alt="GitHub stats and top languages, refreshed daily" width="100%" />
+</div>
+
+<sub>The snake animation above and this stats card are both regenerated daily by a [GitHub Actions workflow](.github/workflows/profile-visuals.yml) straight from live GitHub data — nothing here is hand-maintained.</sub>
 
 ---
 
